@@ -1,6 +1,15 @@
 ### Hi there 👋
+###### I am an ISU graduate student and a Data Analyst  🦸‍♂️✨
+### Here are some of my skills,
+###### Programming Languages: Python, R, SQL
+###### BI Tools: Tableau, Microsoft Power BI
+###### Cloud Computing Tools: Microsoft Azure
 
 <!--
+###### ML Frameworks: PyTorch, Tensorflow, Scikit-Learn, HuggingFace, XGBoost, SciPy
+###### Other CS Tools:  Flask, Git, ...
+
+
 **StatAziz/StatAziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
