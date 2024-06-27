@@ -1,9 +1,9 @@
 ### Hi there 👋
-###### I am an ISU graduate student and a Data Analyst  🦸‍♂️✨
-### Here are some of my skills,
-###### Programming Languages: Python, R, SQL
-###### BI Tools: Tableau, Microsoft Power BI
-###### Cloud Computing Tools: Microsoft Azure
+### I am an ISU graduate student and a Data Analyst  🦸‍♂️✨
+### my skills:
+- Programming Languages: Python, R, SQL
+- BI Tools: Tableau, Microsoft Power BI
+- Cloud Computing Tools: Microsoft Azure
 
 <!--
 ###### ML Frameworks: PyTorch, Tensorflow, Scikit-Learn, HuggingFace, XGBoost, SciPy
