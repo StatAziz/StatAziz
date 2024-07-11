@@ -1,5 +1,18 @@
+
+- 👋 Hi, My name is Azizul
+- ⚽ 🧩 I enjoy playing soccer and cricket in my free time
+- 🌱 I am passionate to learn latest data technologies to solve new problem-solving challenges.
+- 📧 Feel free to email me at azizulislam4407@gmail.com
+
+
+
+
+
+
+<!--
 ### Hi there 👋
-### I am an ISU graduate student and a Data Analyst  🦸‍♂️✨
+### I am a Data Professional.  🦸‍♂️✨
+### I am pursuing MS in Statistics at ISU.  🦸‍♂️✨
 ### my skills:
 - Programming Languages: Python, R, SQL
 - BI Tools: Tableau, Microsoft Power BI
