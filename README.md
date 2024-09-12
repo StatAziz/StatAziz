@@ -1,6 +1,6 @@
 
 - 👋 Hi, My name is Azizul
-- 👀 I’m a Statistican and Data Analyst
+- 👀 I’m a Statistician and Data Analyst
 - 🌱 I am passionate to learn latest data technologies to solve new problem-solving challenges.
 - ⚽ I enjoy playing soccer and cricket in my free time
 - 📧 Reach me via email: azizulislam4407@gmail.com
