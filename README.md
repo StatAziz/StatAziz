@@ -1,8 +1,9 @@
 
 - 👋 Hi, My name is Azizul
-- ⚽ I enjoy playing soccer and cricket in my free time
+- 👀 I’m a Statistican and Data Analyst
 - 🌱 I am passionate to learn latest data technologies to solve new problem-solving challenges.
-- 📧 Feel free to email me at azizulislam4407@gmail.com
+- ⚽ I enjoy playing soccer and cricket in my free time
+- 📧 Reach me via email: azizulislam4407@gmail.com
 
 
 
